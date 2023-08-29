@@ -46,5 +46,11 @@ The correlation between mouse weight and the average tumor volume is 0.84
 
 Analysis
 
-Based on the scatter plot there is a strong correlation between weight and tumor size. The bigger the mouse the greater the size of the tumor. When running a box and whisker plot i've noticed the effectiveness of Capomulin, Ramicane against tumor volume. To make sure the drug have the same effects on male and female i did the pie chart to show case the drug distribution among male and female mice. Since i noticed the effectiveness of capomulin I ran a line chart to see the progress when using capomulin and the result were reported that during the 20 timepoints to 35 timpepoints the volume of tumor in mouse l509 decrease 8mm. Inconlusion the two drugs that were affective during this study were capomulin and ramicane with capomulin being the top and most affective drug in decreasing the volume of tumor in mice.
+Based on the scatter plot there is a strong correlation between weight and tumor size.  The correlation between mouse weight and the average tumor volume is 0.84.  The bigger the mouse the greater the size of the tumor.  
+
+When running a box and whisker plot I've noticed the effectiveness of Capomulin, Ramicane against tumor volume.  To make sure the drug have the same effects on male and female I did the pie chart to show case the drug distribution among male and female mice.  
+
+Since I noticed the effectiveness of capomulin I ran a line chart to see the progress when using capomulin and the result were reported that during the 20 timepoints to 35 timpepoints the volume of tumor in mouse l509 decrease 8mm.
+
+Inconlusion the two drugs that were affective during this study were capomulin and ramicane with capomulin being the top and most affective drug in decreasing the volume of tumor in mice.  The purpose of this study was to compare the performance of Capomulin against the other treatment regimens and with the data pointing to the effectiveness of Capomulin in decreasing the volume of tumor in mice.
 
