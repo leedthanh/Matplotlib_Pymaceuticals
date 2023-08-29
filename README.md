@@ -30,9 +30,21 @@ The tumor volume at the last timepoint
 
 box plot that shows the distrubution of the tumor volume for each treatment group.
 
-<img width="629" alt="Screen Shot 2023-08-29 at 2 35 47 AM" src="https://github.com/leedthanh/Matplotlib_Pymaceuticals/assets/135544908/3fa4e6de-b9ef-4244-a9bc-849c30ce7765">
+<img width="629" alt="Screen Shot 2023-08-29 at 2 35 47 AM" src="https://github.com/leedthanh/Matplotlib_Pymaceuticals/assets/135544908/4e18a92f-ebd2-46db-9b0f-aeb898c51dbf">
 
+A line plot of tumor volume vs. time point for a single mouse treated with Capomulin
 
+<img width="634" alt="Screen Shot 2023-08-29 at 2 37 53 AM" src="https://github.com/leedthanh/Matplotlib_Pymaceuticals/assets/135544908/16fd934c-9d2b-451c-bd90-3d3fcc359815">
 
+A scatter plot of mouse weight vs. the average observed tumor volume for the entire Capomulin regimen
 
+<img width="607" alt="Screen Shot 2023-08-29 at 2 38 33 AM" src="https://github.com/leedthanh/Matplotlib_Pymaceuticals/assets/135544908/88ee8d1a-edf9-4b91-8822-f27467c84f95">
+
+The correlation between mouse weight and the average tumor volume is 0.84
+
+<img width="638" alt="Screen Shot 2023-08-29 at 2 39 53 AM" src="https://github.com/leedthanh/Matplotlib_Pymaceuticals/assets/135544908/978d1ee6-10a9-4449-b632-c34900ee82e9">
+
+Analysis
+
+Based on the scatter plot there is a strong correlation between weight and tumor size. The bigger the mouse the greater the size of the tumor. When running a box and whisker plot i've noticed the effectiveness of Capomulin, Ramicane against tumor volume. To make sure the drug have the same effects on male and female i did the pie chart to show case the drug distribution among male and female mice. Since i noticed the effectiveness of capomulin I ran a line chart to see the progress when using capomulin and the result were reported that during the 20 timepoints to 35 timpepoints the volume of tumor in mouse l509 decrease 8mm. Inconlusion the two drugs that were affective during this study were capomulin and ramicane with capomulin being the top and most affective drug in decreasing the volume of tumor in mice.
 
